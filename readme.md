@@ -24,7 +24,7 @@ To reproduce the experiments:
         enter "source/LLM&Reap/Local" and run "python main.py"
 
 3. How to run RL experiment:
-    enter "source/RL/t5-scienceworld" and run "python t5_test.py"
+   Download t5-scienceworld from https://github.com/cognitiveailab/t5-scienceworld and set up dt model, then replace the "main.py" and add "t5_test.py". Finally, enter "source/RL/t5-scienceworld" and run "python t5_test.py"
     
 ## Notes
 
@@ -33,3 +33,4 @@ To reproduce the experiments:
 - File names and task IDs follow ScienceWorld's official definitions.
 
 For more details, please refer to the main paper.
+
