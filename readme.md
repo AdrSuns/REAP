@@ -19,9 +19,9 @@ To reproduce the experiments:
 
 2. How to run LLM & Reap:
     (1) Server:
-        enter "source/LLM&Reap/Server" and run "python aca_api.py"
+        Download DeepSeek-R1-Distill-Qwen-32B model and replace "your_path" in python aca_api.py with your model path. Then enter "source/LLM&Reap/Server" and run "python aca_api.py"
     (2) Local:
-        enter "source/LLM&Reap/Local" and run "python main.py"
+        Enter "source/LLM&Reap/Local" and run "python main.py"
 
 3. How to run RL experiment:
    Download t5-scienceworld from https://github.com/cognitiveailab/t5-scienceworld and set up dt model, then replace the "main.py" and add "t5_test.py". Finally, enter "source/RL/t5-scienceworld" and run "python t5_test.py"
@@ -33,4 +33,5 @@ To reproduce the experiments:
 - File names and task IDs follow ScienceWorld's official definitions.
 
 For more details, please refer to the main paper.
+
 
