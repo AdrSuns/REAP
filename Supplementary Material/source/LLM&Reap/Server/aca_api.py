@@ -14,8 +14,7 @@ from peft import prepare_model_for_kbit_training
 
 
 
-model_name_or_path = "/data/hansd/.cache/modelscope/hub/models/deepseek-ai/DeepSeek-R1-Distill-Qwen-32B"
-# model_name_or_path = "/data/zhangx/.cache/modelscope/hub/AI-ModelScope/Mixtral-8x7B-Instruct-v0___1"
+model_name_or_path = "your_model_path"
 quantization_config = BitsAndBytesConfig(
             load_in_8bit=True,
             llm_int8_threshold=200.0)
@@ -27,23 +26,23 @@ config.gradient_checkpointing = False
 torch_dtype = torch.bfloat16 if torch.cuda.is_bf16_supported() else torch.float16
 
 quant_config = BitsAndBytesConfig(
-    load_in_8bit=True,              # ✅ 量化为 8-bit
-    llm_int8_threshold=6.0,         # 可选，控制哪些层量化
-    llm_int8_skip_modules=None,     # 可选，跳过某些模块
-    llm_int8_enable_fp32_cpu_offload=True  # 可选，省显存
+    load_in_8bit=True,              
+    llm_int8_threshold=6.0,         
+    llm_int8_skip_modules=None,     
+    llm_int8_enable_fp32_cpu_offload=True  
 )
 model = AutoModelForCausalLM.from_pretrained(
     model_name_or_path,
     device_map="auto",
     torch_dtype=torch_dtype,
     trust_remote_code=True,
-    quantization_config=None,  # 禁用 bnb 量化
+    quantization_config=None, 
     attn_implementation="flash_attention_2"
 )
 #model = AutoModelForCausalLM.from_pretrained(model_name_or_path,
 #                                            #  config=config,
 #                                             trust_remote_code=False,
-#                                             quantization_config=quant_config,   # ✅ 新方式
+#                                             quantization_config=quant_config,   
 #                                             device_map="auto",
 #                                             torch_dtype=torch_dtype,
 #                                             attn_implementation="flash_attention_2"
