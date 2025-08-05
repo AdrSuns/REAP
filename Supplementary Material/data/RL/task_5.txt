@@ -1,0 +1,344 @@
+Variation: 0, Step: 0, Score: 0, Action: close door to kitchen
+Variation: 0, Step: 1, Score: 0, Action: open door to kitchen
+Variation: 0, Step: 2, Score: 0, Action: close door to living room
+Variation: 0, Step: 3, Score: 0, Action: open door to living room
+Variation: 0, Step: 4, Score: 0, Action: close door to workshop
+Variation: 0, Step: 5, Score: 0, Action: open door to workshop
+Variation: 0, Step: 6, Score: 0, Action:      
+Variation: 0, Step: 7, Score: 0, Action: close door to kitchen
+Variation: 0, Step: 8, Score: 0, Action: open door to kitchen
+Variation: 0, Step: 9, Score: 0, Action: close door to living room
+Variation: 0, Step: 10, Score: 0, Action: open door to living room
+Variation: 0, Step: 11, Score: 0, Action: close door to workshop
+Variation: 0, Step: 12, Score: 0, Action: open door to workshop
+Variation: 0, Step: 13, Score: 0, Action:      
+Variation: 0, Step: 14, Score: 0, Action: close door to kitchen
+Variation: 0, Step: 15, Score: 0, Action: open door to kitchen
+Variation: 0, Step: 16, Score: 0, Action: close door to living room
+Variation: 0, Step: 17, Score: 0, Action: open door to living room
+Variation: 0, Step: 18, Score: 0, Action: close door to workshop
+Variation: 0, Step: 19, Score: 0, Action: open door to workshop
+Variation: 0, Step: 20, Score: 0, Action:      
+Variation: 0, Step: 21, Score: 0, Action: close door to kitchen
+Variation: 0, Step: 22, Score: 0, Action: open door to kitchen
+Variation: 0, Step: 23, Score: 0, Action: close door to living room
+Variation: 0, Step: 24, Score: 0, Action: open door to living room
+Variation: 0, Step: 25, Score: 0, Action: close door to workshop
+Variation: 0, Step: 26, Score: 0, Action: open door to workshop
+Variation: 0, Step: 27, Score: 0, Action:      
+Variation: 0, Step: 28, Score: 0, Action: close door to kitchen
+Variation: 0, Step: 29, Score: 0, Action: open door to kitchen
+Variation: 0, Step: 30, Score: 0, Action: close door to living room
+Variation: 0, Step: 31, Score: 0, Action: open door to living room
+Variation: 0, Step: 32, Score: 0, Action: close door to workshop
+Variation: 0, Step: 33, Score: 0, Action: open door to workshop
+Variation: 0, Step: 34, Score: 0, Action:      
+Variation: 0, Step: 35, Score: 0, Action: close door to kitchen
+Variation: 0, Step: 36, Score: 0, Action: open door to kitchen
+Variation: 0, Step: 37, Score: 0, Action: close door to living room
+Variation: 0, Step: 38, Score: 0, Action: open door to living room
+Variation: 0, Step: 39, Score: 0, Action: close door to workshop
+Variation: 0, Step: 40, Score: 0, Action: open door to workshop
+Variation: 0, Step: 41, Score: 0, Action:      
+Variation: 0, Step: 42, Score: 0, Action: close door to kitchen
+Variation: 0, Step: 43, Score: 0, Action: open door to kitchen
+Variation: 0, Step: 44, Score: 0, Action: close door to living room
+Variation: 0, Step: 45, Score: 0, Action: open door to living room
+Variation: 0, Step: 46, Score: 0, Action: close door to workshop
+Variation: 0, Step: 47, Score: 0, Action: open door to workshop
+Variation: 0, Step: 48, Score: 0, Action:      
+Variation: 0, Step: 49, Score: 0, Action: close door to kitchen
+Variation: 0, Step: 50, Score: 0, Action: open door to kitchen
+Variation: 0, Step: 51, Score: 0, Action: close door to living room
+Variation: 0, Step: 52, Score: 0, Action: open door to living room
+Variation: 0, Step: 53, Score: 0, Action: close door to workshop
+Variation: 0, Step: 54, Score: 0, Action: open door to workshop
+Variation: 0, Step: 55, Score: 0, Action:      
+Variation: 0, Step: 56, Score: 0, Action: close door to kitchen
+Variation: 0, Step: 57, Score: 0, Action: open door to kitchen
+Variation: 0, Step: 58, Score: 0, Action: close door to living room
+Variation: 0, Step: 59, Score: 0, Action: open door to living room
+Variation: 0, Step: 60, Score: 0, Action: close door to workshop
+Variation: 0, Step: 61, Score: 0, Action: open door to workshop
+Variation: 0, Step: 62, Score: 0, Action:      
+Variation: 0, Step: 63, Score: 0, Action: close door to kitchen
+Variation: 0, Step: 64, Score: 0, Action: open door to kitchen
+Variation: 0, Step: 65, Score: 0, Action: close door to living room
+Variation: 0, Step: 66, Score: 0, Action: open door to living room
+Variation: 0, Step: 67, Score: 0, Action: close door to workshop
+Variation: 0, Step: 68, Score: 0, Action: open door to workshop
+Variation: 0, Step: 69, Score: 0, Action:      
+Variation: 0, Step: 70, Score: 0, Action: close door to kitchen
+Variation: 0, Step: 71, Score: 0, Action: open door to kitchen
+Variation: 0, Step: 72, Score: 0, Action: close door to living room
+Variation: 0, Step: 73, Score: 0, Action: open door to living room
+Variation: 0, Step: 74, Score: 0, Action: close door to workshop
+Variation: 0, Step: 75, Score: 0, Action: open door to workshop
+Variation: 0, Step: 76, Score: 0, Action:      
+Variation: 0, Step: 77, Score: 0, Action: close door to kitchen
+Variation: 0, Step: 78, Score: 0, Action: open door to kitchen
+Variation: 0, Step: 79, Score: 0, Action: close door to living room
+Variation: 0, Step: 80, Score: 0, Action: open door to living room
+Variation: 0, Step: 81, Score: 0, Action: close door to workshop
+Variation: 0, Step: 82, Score: 0, Action: open door to workshop
+Variation: 0, Step: 83, Score: 0, Action:      
+Variation: 0, Step: 84, Score: 0, Action: close door to kitchen
+Variation: 0, Step: 85, Score: 0, Action: open door to kitchen
+Variation: 0, Step: 86, Score: 0, Action: close door to living room
+Variation: 0, Step: 87, Score: 0, Action: open door to living room
+Variation: 0, Step: 88, Score: 0, Action: close door to workshop
+Variation: 0, Step: 89, Score: 0, Action: open door to workshop
+Variation: 0, Step: 90, Score: 0, Action:      
+Variation: 0, Step: 91, Score: 0, Action: close door to kitchen
+Variation: 0, Step: 92, Score: 0, Action: open door to kitchen
+Variation: 0, Step: 93, Score: 0, Action: close door to living room
+Variation: 0, Step: 94, Score: 0, Action: open door to living room
+Variation: 0, Step: 95, Score: 0, Action: close door to workshop
+Variation: 0, Step: 96, Score: 0, Action: open door to workshop
+Variation: 0, Step: 97, Score: 0, Action:      
+Variation: 0, Step: 98, Score: 0, Action: close door to kitchen
+Variation: 0, Step: 99, Score: 0, Action: open door to kitchen
+Variation: 0, Step: 100, Score: 0, Action: close door to living room
+Variation: 0, Step: 101, Score: 0, Action: open door to living room
+Variation: 0, Step: 102, Score: 0, Action: close door to workshop
+Variation: 0, Step: 103, Score: 0, Action: open door to workshop
+Variation: 0, Step: 104, Score: 0, Action:      
+Variation: 0, Step: 105, Score: 0, Action: close door to kitchen
+Variation: 0, Step: 106, Score: 0, Action: open door to kitchen
+Variation: 0, Step: 107, Score: 0, Action: close door to living room
+Variation: 0, Step: 108, Score: 0, Action: open door to living room
+Variation: 0, Step: 109, Score: 0, Action: close door to workshop
+Variation: 0, Step: 110, Score: 0, Action: open door to workshop
+Variation: 0, Step: 111, Score: 0, Action:      
+Variation: 0, Step: 112, Score: 0, Action: close door to kitchen
+Variation: 0, Step: 113, Score: 0, Action: open door to kitchen
+Variation: 0, Step: 114, Score: 0, Action: close door to living room
+Variation: 0, Step: 115, Score: 0, Action: open door to living room
+Variation: 0, Step: 116, Score: 0, Action: close door to workshop
+Variation: 0, Step: 0, Score: 0, Action: close door to kitchen
+Variation: 0, Step: 1, Score: 0, Action: open door to kitchen
+Variation: 0, Step: 2, Score: 0, Action: close door to workshop
+Variation: 0, Step: 3, Score: 0, Action: open door to workshop
+Variation: 0, Step: 4, Score: 0, Action:      
+Variation: 0, Step: 5, Score: 0, Action: close door to green house
+Variation: 0, Step: 6, Score: 0, Action: open door to green house
+Variation: 0, Step: 7, Score: 0, Action: close door to workshop
+Variation: 0, Step: 8, Score: 0, Action: open door to workshop
+Variation: 0, Step: 9, Score: 0, Action:      
+Variation: 0, Step: 10, Score: 0, Action: close door to green house
+Variation: 0, Step: 11, Score: 0, Action: open door to green house
+Variation: 0, Step: 12, Score: 0, Action: close door to workshop
+Variation: 0, Step: 13, Score: 0, Action: open door to workshop
+Variation: 0, Step: 14, Score: 0, Action:      
+Variation: 0, Step: 15, Score: 0, Action: close door to green house
+Variation: 0, Step: 16, Score: 0, Action: open door to green house
+Variation: 0, Step: 17, Score: 0, Action: close door to workshop
+Variation: 0, Step: 18, Score: 0, Action: open door to workshop
+Variation: 0, Step: 19, Score: 0, Action:      
+Variation: 0, Step: 20, Score: 0, Action: close door to green house
+Variation: 0, Step: 21, Score: 0, Action: open door to green house
+Variation: 0, Step: 22, Score: 0, Action: close door to workshop
+Variation: 0, Step: 23, Score: 0, Action: open door to workshop
+Variation: 0, Step: 24, Score: 0, Action:      
+Variation: 0, Step: 25, Score: 0, Action: close door to green house
+Variation: 0, Step: 26, Score: 0, Action: open door to green house
+Variation: 0, Step: 27, Score: 0, Action: close door to workshop
+Variation: 0, Step: 28, Score: 0, Action: open door to workshop
+Variation: 0, Step: 29, Score: 0, Action:      
+Variation: 0, Step: 30, Score: 0, Action: close door to green house
+Variation: 0, Step: 31, Score: 0, Action: open door to green house
+Variation: 0, Step: 32, Score: 0, Action: close door to workshop
+Variation: 0, Step: 33, Score: 0, Action: open door to workshop
+Variation: 0, Step: 34, Score: 0, Action:      
+Variation: 0, Step: 35, Score: 0, Action: close door to green house
+Variation: 0, Step: 36, Score: 0, Action: open door to green house
+Variation: 0, Step: 37, Score: 0, Action: close door to workshop
+Variation: 0, Step: 38, Score: 0, Action: open door to workshop
+Variation: 0, Step: 39, Score: 0, Action:      
+Variation: 0, Step: 40, Score: 0, Action: close door to green house
+Variation: 0, Step: 41, Score: 0, Action: open door to green house
+Variation: 0, Step: 42, Score: 0, Action: close door to workshop
+Variation: 0, Step: 43, Score: 0, Action: open door to workshop
+Variation: 0, Step: 44, Score: 0, Action:      
+Variation: 0, Step: 45, Score: 0, Action: close door to green house
+Variation: 0, Step: 46, Score: 0, Action: open door to green house
+Variation: 0, Step: 47, Score: 0, Action: close door to workshop
+Variation: 0, Step: 48, Score: 0, Action: open door to workshop
+Variation: 0, Step: 49, Score: 0, Action:      
+Variation: 0, Step: 50, Score: 0, Action: close door to green house
+Variation: 0, Step: 51, Score: 0, Action: open door to green house
+Variation: 0, Step: 52, Score: 0, Action: close door to workshop
+Variation: 0, Step: 53, Score: 0, Action: open door to workshop
+Variation: 0, Step: 54, Score: 0, Action:      
+Variation: 0, Step: 55, Score: 0, Action: close door to green house
+Variation: 0, Step: 56, Score: 0, Action: open door to green house
+Variation: 0, Step: 57, Score: 0, Action: close door to workshop
+Variation: 0, Step: 58, Score: 0, Action: open door to workshop
+Variation: 0, Step: 59, Score: 0, Action:      
+Variation: 0, Step: 60, Score: 0, Action: close door to green house
+Variation: 0, Step: 61, Score: 0, Action: open door to green house
+Variation: 0, Step: 62, Score: 0, Action: close door to workshop
+Variation: 0, Step: 63, Score: 0, Action: open door to workshop
+Variation: 0, Step: 64, Score: 0, Action:      
+Variation: 0, Step: 65, Score: 0, Action: close door to green house
+Variation: 0, Step: 66, Score: 0, Action: open door to green house
+Variation: 0, Step: 67, Score: 0, Action: close door to workshop
+Variation: 0, Step: 68, Score: 0, Action: open door to workshop
+Variation: 0, Step: 69, Score: 0, Action:      
+Variation: 0, Step: 70, Score: 0, Action: close door to green house
+Variation: 0, Step: 71, Score: 0, Action: open door to green house
+Variation: 0, Step: 72, Score: 0, Action: close door to workshop
+Variation: 0, Step: 73, Score: 0, Action: open door to workshop
+Variation: 0, Step: 74, Score: 0, Action:      
+Variation: 0, Step: 75, Score: 0, Action: close door to green house
+Variation: 0, Step: 76, Score: 0, Action: open door to green house
+Variation: 0, Step: 77, Score: 0, Action: close door to workshop
+Variation: 0, Step: 78, Score: 0, Action: open door to workshop
+Variation: 0, Step: 79, Score: 0, Action:      
+Variation: 0, Step: 80, Score: 0, Action: close door to green house
+Variation: 0, Step: 81, Score: 0, Action: open door to green house
+Variation: 0, Step: 82, Score: 0, Action: close door to workshop
+Variation: 0, Step: 83, Score: 0, Action: open door to workshop
+Variation: 0, Step: 84, Score: 0, Action:      
+Variation: 0, Step: 85, Score: 0, Action: close door to green house
+Variation: 0, Step: 86, Score: 0, Action: open door to green house
+Variation: 0, Step: 87, Score: 0, Action: close door to workshop
+Variation: 0, Step: 88, Score: 0, Action: open door to workshop
+Variation: 0, Step: 89, Score: 0, Action:      
+Variation: 0, Step: 90, Score: 0, Action: close door to green house
+Variation: 0, Step: 91, Score: 0, Action: open door to green house
+Variation: 0, Step: 92, Score: 0, Action: close door to workshop
+Variation: 0, Step: 93, Score: 0, Action: open door to workshop
+Variation: 0, Step: 94, Score: 0, Action:      
+Variation: 0, Step: 95, Score: 0, Action: close door to green house
+Variation: 0, Step: 96, Score: 0, Action: open door to green house
+Variation: 0, Step: 97, Score: 0, Action: close door to workshop
+Variation: 0, Step: 98, Score: 0, Action: open door to workshop
+Variation: 0, Step: 99, Score: 0, Action:      
+Variation: 0, Step: 100, Score: 0, Action: close door to green house
+Variation: 0, Step: 101, Score: 0, Action: open door to green house
+Variation: 0, Step: 102, Score: 0, Action: close door to workshop
+Variation: 0, Step: 103, Score: 0, Action: open door to workshop
+Variation: 0, Step: 104, Score: 0, Action:      
+Variation: 0, Step: 105, Score: 0, Action: close door to green house
+Variation: 0, Step: 106, Score: 0, Action: open door to green house
+Variation: 0, Step: 107, Score: 0, Action: close door to workshop
+Variation: 0, Step: 108, Score: 0, Action: open door to workshop
+Variation: 0, Step: 109, Score: 0, Action:      
+Variation: 0, Step: 110, Score: 0, Action: close door to green house
+Variation: 0, Step: 111, Score: 0, Action: open door to green house
+Variation: 0, Step: 112, Score: 0, Action: close door to workshop
+Variation: 0, Step: 113, Score: 0, Action: open door to workshop
+Variation: 0, Step: 114, Score: 0, Action:      
+Variation: 0, Step: 115, Score: 0, Action: close door to green house
+Variation: 0, Step: 116, Score: 0, Action: open door to green house
+Variation: 0, Step: 117, Score: 0, Action: close door to workshop
+Variation: 0, Step: 118, Score: 0, Action: open door to workshop
+Variation: 0, Step: 119, Score: 0, Action:      
+Variation: 0, Step: 120, Score: 0, Action: close door to green house
+Variation: 0, Step: 121, Score: 0, Action: open door to green house
+Variation: 0, Step: 122, Score: 0, Action: close door to workshop
+Variation: 0, Step: 123, Score: 0, Action: open door to workshop
+Variation: 0, Step: 124, Score: 0, Action:      
+Variation: 0, Step: 125, Score: 0, Action: close door to green house
+Variation: 0, Step: 0, Score: 0, Action: close door to kitchen
+Variation: 0, Step: 1, Score: 0, Action: open door to kitchen
+Variation: 0, Step: 2, Score: 0, Action: close door to living room
+Variation: 0, Step: 3, Score: 0, Action: open door to living room
+Variation: 0, Step: 4, Score: 0, Action: close door to workshop
+Variation: 0, Step: 5, Score: 0, Action: open door to workshop
+Variation: 0, Step: 6, Score: 0, Action: close door to kitchen
+Variation: 0, Step: 7, Score: 0, Action: open door to kitchen
+Variation: 0, Step: 8, Score: 0, Action: close door to living room
+Variation: 0, Step: 9, Score: 0, Action: open door to living room
+Variation: 0, Step: 10, Score: 0, Action: close door to workshop
+Variation: 0, Step: 11, Score: 0, Action: open door to workshop
+Variation: 0, Step: 12, Score: 0, Action: close door to kitchen
+Variation: 0, Step: 13, Score: 0, Action: open door to kitchen
+Variation: 0, Step: 14, Score: 0, Action: close door to living room
+Variation: 0, Step: 15, Score: 0, Action: open door to living room
+Variation: 0, Step: 16, Score: 0, Action: close door to workshop
+Variation: 0, Step: 17, Score: 0, Action: open door to workshop
+Variation: 0, Step: 18, Score: 0, Action: close door to kitchen
+Variation: 0, Step: 19, Score: 0, Action: open door to kitchen
+Variation: 0, Step: 20, Score: 0, Action: close door to living room
+Variation: 0, Step: 21, Score: 0, Action: open door to living room
+Variation: 0, Step: 22, Score: 0, Action: close door to workshop
+Variation: 0, Step: 23, Score: 0, Action: open door to workshop
+Variation: 0, Step: 24, Score: 0, Action: close door to kitchen
+Variation: 0, Step: 25, Score: 0, Action: open door to kitchen
+Variation: 0, Step: 26, Score: 0, Action: close door to living room
+Variation: 0, Step: 27, Score: 0, Action: open door to living room
+Variation: 0, Step: 28, Score: 0, Action: close door to workshop
+Variation: 0, Step: 29, Score: 0, Action: open door to workshop
+Variation: 0, Step: 30, Score: 0, Action: close door to kitchen
+Variation: 0, Step: 31, Score: 0, Action: open door to kitchen
+Variation: 0, Step: 32, Score: 0, Action: close door to living room
+Variation: 0, Step: 33, Score: 0, Action: open door to living room
+Variation: 0, Step: 34, Score: 0, Action: close door to workshop
+Variation: 0, Step: 35, Score: 0, Action: open door to workshop
+Variation: 0, Step: 36, Score: 0, Action: close door to kitchen
+Variation: 0, Step: 37, Score: 0, Action: open door to kitchen
+Variation: 0, Step: 38, Score: 0, Action: close door to living room
+Variation: 0, Step: 39, Score: 0, Action: open door to living room
+Variation: 0, Step: 40, Score: 0, Action: close door to workshop
+Variation: 0, Step: 41, Score: 0, Action: open door to workshop
+Variation: 0, Step: 42, Score: 0, Action: close door to kitchen
+Variation: 0, Step: 43, Score: 0, Action: open door to kitchen
+Variation: 0, Step: 44, Score: 0, Action: close door to living room
+Variation: 0, Step: 45, Score: 0, Action: open door to living room
+Variation: 0, Step: 46, Score: 0, Action: close door to workshop
+Variation: 0, Step: 47, Score: 0, Action: open door to workshop
+Variation: 0, Step: 48, Score: 0, Action: close door to kitchen
+Variation: 0, Step: 49, Score: 0, Action: open door to kitchen
+Variation: 0, Step: 50, Score: 0, Action: close door to living room
+Variation: 0, Step: 51, Score: 0, Action: open door to living room
+Variation: 0, Step: 52, Score: 0, Action: close door to workshop
+Variation: 0, Step: 53, Score: 0, Action: open door to workshop
+Variation: 0, Step: 54, Score: 0, Action: close door to kitchen
+Variation: 0, Step: 55, Score: 0, Action: open door to kitchen
+Variation: 0, Step: 56, Score: 0, Action: close door to living room
+Variation: 0, Step: 57, Score: 0, Action: open door to living room
+Variation: 0, Step: 58, Score: 0, Action: close door to workshop
+Variation: 0, Step: 59, Score: 0, Action: open door to workshop
+Variation: 0, Step: 60, Score: 0, Action: close door to kitchen
+Variation: 0, Step: 61, Score: 0, Action: open door to kitchen
+Variation: 0, Step: 62, Score: 0, Action: close door to living room
+Variation: 0, Step: 63, Score: 0, Action: open door to living room
+Variation: 0, Step: 64, Score: 0, Action: close door to workshop
+Variation: 0, Step: 65, Score: 0, Action: open door to workshop
+Variation: 0, Step: 66, Score: 0, Action: close door to kitchen
+Variation: 0, Step: 67, Score: 0, Action: open door to kitchen
+Variation: 0, Step: 68, Score: 0, Action: close door to living room
+Variation: 0, Step: 69, Score: 0, Action: open door to living room
+Variation: 0, Step: 70, Score: 0, Action: close door to workshop
+Variation: 0, Step: 71, Score: 0, Action: open door to workshop
+Variation: 0, Step: 72, Score: 0, Action: close door to kitchen
+Variation: 0, Step: 73, Score: 0, Action: open door to kitchen
+Variation: 0, Step: 74, Score: 0, Action: close door to living room
+Variation: 0, Step: 75, Score: 0, Action: open door to living room
+Variation: 0, Step: 76, Score: 0, Action: close door to workshop
+Variation: 0, Step: 77, Score: 0, Action: open door to workshop
+Variation: 0, Step: 78, Score: 0, Action: close door to kitchen
+Variation: 0, Step: 79, Score: 0, Action: open door to kitchen
+Variation: 0, Step: 80, Score: 0, Action: close door to living room
+Variation: 0, Step: 81, Score: 0, Action: open door to living room
+Variation: 0, Step: 82, Score: 0, Action: close door to workshop
+Variation: 0, Step: 83, Score: 0, Action: open door to workshop
+Variation: 0, Step: 84, Score: 0, Action: close door to kitchen
+Variation: 0, Step: 85, Score: 0, Action: open door to kitchen
+Variation: 0, Step: 86, Score: 0, Action: close door to living room
+Variation: 0, Step: 87, Score: 0, Action: open door to living room
+Variation: 0, Step: 88, Score: 0, Action: close door to workshop
+Variation: 0, Step: 89, Score: 0, Action: open door to workshop
+Variation: 0, Step: 90, Score: 0, Action: close door to kitchen
+Variation: 0, Step: 91, Score: 0, Action: open door to kitchen
+Variation: 0, Step: 92, Score: 0, Action: close door to living room
+Variation: 0, Step: 93, Score: 0, Action: open door to living room
+Variation: 0, Step: 94, Score: 0, Action: close door to workshop
+Variation: 0, Step: 95, Score: 0, Action: open door to workshop
+Variation: 0, Step: 96, Score: 0, Action: close door to kitchen
+Variation: 0, Step: 97, Score: 0, Action: open door to kitchen
+Variation: 0, Step: 98, Score: 0, Action: close door to living room
+Variation: 0, Step: 99, Score: 0, Action: open door to living room
+Variation: 0, Step: 100, Score: 0, Action: close door to workshop

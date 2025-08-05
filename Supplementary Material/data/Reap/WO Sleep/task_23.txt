@@ -1,0 +1,24 @@
+
+TaskNum:23 Varaition:0 Step:0 Score:0 Reward:0 Action:look around
+
+TaskNum:23 Varaition:0 Step:1 Score:0 Reward:0 Action:open door to greenhouse
+
+TaskNum:23 Varaition:0 Step:2 Score:11 Reward:11 Action:go to greenhouse
+
+TaskNum:23 Varaition:0 Step:3 Score:100 Reward:89 Action:focus on red box
+
+TaskNum:23 Varaition:0 Step:0 Score:0 Reward:0 Action:look around
+
+TaskNum:23 Varaition:0 Step:1 Score:0 Reward:0 Action:open door to greenhouse
+
+TaskNum:23 Varaition:0 Step:2 Score:11 Reward:11 Action:go to greenhouse
+
+TaskNum:23 Varaition:0 Step:3 Score:100 Reward:89 Action:focus on red box
+
+TaskNum:23 Varaition:0 Step:0 Score:0 Reward:0 Action:look around
+
+TaskNum:23 Varaition:0 Step:1 Score:0 Reward:0 Action:open door to greenhouse
+
+TaskNum:23 Varaition:0 Step:2 Score:11 Reward:11 Action:go to greenhouse
+
+TaskNum:23 Varaition:0 Step:3 Score:100 Reward:89 Action:focus on red box
