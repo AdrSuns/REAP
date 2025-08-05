@@ -19,7 +19,7 @@ To reproduce the experiments:
 
 2. How to run LLM & Reap:
     (1) Server:
-        Download DeepSeek-R1-Distill-Qwen-32B model and replace "your_path" in python aca_api.py with your model path. Then enter "source/LLM&Reap/Server" and run "python aca_api.py"
+        Download DeepSeek-R1-Distill-Qwen-32B model and replace "your_model_path" in python aca_api.py with your model path. Then enter "source/LLM&Reap/Server" and run "python aca_api.py"
     (2) Local:
         Enter "source/LLM&Reap/Local" and run "python main.py"
 
@@ -33,5 +33,6 @@ To reproduce the experiments:
 - File names and task IDs follow ScienceWorld's official definitions.
 
 For more details, please refer to the main paper.
+
 
 
